@@ -16,6 +16,7 @@ class SoftwareEngineerStudent:
 me = SoftwareEngineerStudent()
 me.say_hi()
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelo59930)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **angelo59930/angelo59930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
