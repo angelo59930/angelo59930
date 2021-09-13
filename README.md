@@ -1,4 +1,21 @@
 ### Hi there 👋
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineerStudent:
+
+    def __init__(self):
+        self.name = "Angelo"
+        self.role = "Software Engineer Student"
+        self.language_spoken = ["es_AR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = SoftwareEngineerStudent()
+me.say_hi()
+```
 
 <!--
 **angelo59930/angelo59930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
